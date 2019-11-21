@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">lab-07</string>
+    <string name = "button">MAKE CHOICE</string>
+    <string name = "title">DECISION MAKE-INATOR</string>
+
+    <string name = "toggleOn">Bad Decision</string>
+    <string name = "toggleOff">Good Decision</string>
+    <string name = "number">Number of Choices:</string>
+    <string name = "organize">Have you ordered the options?</string>
+    <string name = "yesSwitch">Yes </string>
+
+    <string name = "radioQ">This is a big deal to me:</string>
+    <string name = "radio1">Disagree</string>
+    <string name = "radio2">Indifferent</string>
+    <string name = "radio3">Agree</string>
+
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
