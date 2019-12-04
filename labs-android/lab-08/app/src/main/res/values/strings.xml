@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">emote</string>
+    <string name="header">How am I feeling from 1 - 5?</string>
+    <string-array name="emotions">
+        <item>1 / 5</item>
+        <item>2 / 5</item>
+        <item>3 / 5</item>
+        <item>4 / 5</item>
+        <item>5 / 5</item>
+    </string-array>
+    <string name="emote">EMOTE</string>
+    <string name="header2">Info about your emotion:</string>
+    <string name="result">*your emotion*</string>
+    <string name="synonyms">Synonyms?</string>
+</resources>
