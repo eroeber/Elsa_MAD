@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">relax</string>
+
+    <string name="heading">RELAX</string>
+    <string name="color">Your sanctuary:</string>
+    <string name="radio1">Ocean</string>
+    <string name="radio2">Desert</string>
+    <string name="radio3">Forest</string>
+
+    <string name="duration">Duration:</string>
+    <string name="duration1">Short</string>
+    <string name="duration2">Medium</string>
+    <string name="duration3">Long</string>
+
+    <string name="button">BEGIN</string>
+
+    <string name="heading2">RELAX</string>
+
+    <string name="front1">Take a second for you</string>
+    <string name="front3">... and  Relax</string>
+</resources>
